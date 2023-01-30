@@ -199,7 +199,7 @@ Envia una peticion POST a http://localhost:3000/api/gatos con el tipo JSON
 Si envio una peticion POST a http://localhost:3000/api/gatos puedo ver el nuevo gato con ``"id": 7,`` 
 ![get_api_gatos_7.png](/readme_img/get_api_gatos_7.png)
 
-### 5.2 frontend
+### 4.2 frontend
 Situar la terminal en la ruta donde esta la carpeta **frontend**
 
     cd C:\gatos\frontend
