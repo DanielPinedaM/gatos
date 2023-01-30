@@ -30,7 +30,10 @@ Si te sientes más ambicioso:
 * [Tailwind CSS](https://tailwindcss.com/)
 ****
 
-## 3. ¿Como ejecutar la aplicación?
+## 3. Video tutorial
+[https://youtu.be/HEgs3uVw-f0](https://youtu.be/HEgs3uVw-f0)
+
+## 4. ¿Como ejecutar la aplicación?
 Instalar [NodeJS](https://nodejs.org/)
 
 Instalar [VS Code](https://code.visualstudio.com/)
@@ -39,7 +42,7 @@ Abrir VS Code e instalar la extension [Thunder Client](https://marketplace.visua
 
 ![install_thunder_client.png](/readme_img/install_thunder_client.png)
 
-### 3.1 backend
+### 4.1 backend
 Descargue la carpeta de este repositorio en su computadora local
 
 Guarde (descomprima) la carpeta en la raiz del disco ``C:\gatos``
@@ -149,7 +152,7 @@ Esta imagen muestra http://localhost:3000/img/leo.jpeg que es el gato llamado Le
 
 ![img_leo.png](/readme_img/img_leo.png)
 
-### 3.1.1 Testear backend
+### 4.1.1 Testear backend
 Abrir en VS Code la extension Thunder Client
 
 Enviar peticion GET a http://localhost:3000/kittens para ver que el servidor se esta ejecutando
@@ -196,7 +199,7 @@ Envia una peticion POST a http://localhost:3000/api/gatos con el tipo JSON
 Si envio una peticion POST a http://localhost:3000/api/gatos puedo ver el nuevo gato con ``"id": 7,`` 
 ![get_api_gatos_7.png](/readme_img/get_api_gatos_7.png)
 
-### 3.2 frontend
+### 5.2 frontend
 Situar la terminal en la ruta donde esta la carpeta **frontend**
 
     cd C:\gatos\frontend
