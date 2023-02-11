@@ -1,8 +1,8 @@
-# **Solución Prueba Tecnica Holafly**
+# **Solución Prueba Tecnica**
 
 ---
 
-## [1. Explicación Prueba Tecnica](https://github.com/holafly/interview-code-challenges/tree/main/react)
+## 1. Explicación Prueba Tecnica
 
 ¡Hola!
 
